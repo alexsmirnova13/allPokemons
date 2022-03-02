@@ -1,0 +1,13 @@
+.myBtn {
+    padding: 5px 15px;
+    color: teal;
+    font-size: 14px;
+    background-color: lightgreen;
+    border: 1px solid teal;
+    cursor: pointer;
+}
+
+.currentPage {
+    border: 2px solid rgba(8, 144, 255, 0.733);
+    font-weight: bold;
+}

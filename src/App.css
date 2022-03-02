@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    align-items: space-between;
+}
+
+.App {
+    width: 100%;
+    background: url(https://i.pinimg.com/originals/00/2b/53/002b534206c1480d6675eecdf65962bd.jpg) no-repeat;
+    background-size: cover;
+    margin-top: 56px ;
+    background-attachment:fixed;
+    min-height: 100vh;
+}
+
+.nameOfThePage {
+    text-align: center;
+}
+
+.pageBar {
+    margin: 10px;
+}
+
+.currentPage {
+    border: 2px solid rgba(8, 144, 255, 0.733);
+    font-weight: bold;
+}
+
+.myBtn {
+    padding: 5px 15px;
+    color: teal;
+    font-size: 14px;
+    background-color: lightgreen;
+    border: 1px solid teal;
+    cursor: pointer;
+}
+
+
+.card__btns{
+    display: flex;
+}

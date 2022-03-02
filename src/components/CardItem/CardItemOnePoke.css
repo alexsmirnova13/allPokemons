@@ -1,0 +1,25 @@
+
+
+.onePokeCardContent {
+    background: url(https://www.nicepng.com/png/full/228-2285790_want-to-see-more-awesome-pics-look-at.png) no-repeat;
+    height: 700px;
+}
+
+.onePokeImageBox {
+    margin-left: 300px;
+    margin-top: 30px;
+    width: 250px;
+    padding-top: 30px;
+}
+
+.onePokeCardText{
+    margin-left: 300px;
+    margin-top: 100px;
+    width: 250px;
+}
+
+.onePokeCardBtns {
+    margin-left: 300px;
+    margin-top: -140px;
+    width: 250px;
+}

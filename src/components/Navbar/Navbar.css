@@ -1,0 +1,41 @@
+
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    background-color: gray;
+    position:fixed;
+    left:0px;
+    top:0px;
+    height:56px;
+    width:100%;
+    z-index: 999999
+}
+
+.navbar__links {
+    width: 100%;
+    text-align: end;
+    padding-top: 10px;
+}
+
+.link {
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-left: 30px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    width: 25%;
+    margin: 5px;
+    font-size: 25px;
+    
+}
+
+.active {
+    background-color: darkgray;
+    width: 100%;
+    padding-top: 31px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
